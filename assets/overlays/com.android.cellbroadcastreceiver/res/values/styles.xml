@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="CellBroadcastSettingsTheme" parent="@android:style/Theme.Material">
+    <style name="CellBroadcastTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
         <item name="android:actionBarStyle">@*common:style/Cyngn.AppBar</item>
-        <item name="android:colorBackground">@*common:color/theme_dark</item>
+        <item name="android:colorBackground">@*common:color/theme_background</item>
         <item name="android:statusBarColor">@*common:color/theme_statusbar</item>
-        <item name="android:textColorPrimary">@*common:color/theme_white</item>
-        <item name="android:textColorSecondary">@*common:color/theme_white_dark</item>
         <item name="android:colorEdgeEffect">@*common:color/theme_edge</item>
-        <item name="android:listDivider">@*common:drawable/list_divider_cyngn</item>
+    </style>
+
+    <style name="CellBroadcastSettingsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@*common:style/Cyngn.AppBar</item>
+        <item name="android:actionBarTabTextStyle">@style/Widget.Material.ActionBar.TabText</item>
+        <item name="android:colorBackground">@*common:color/theme_background</item>
+        <item name="android:statusBarColor">@*common:color/theme_statusbar</item>
+        <item name="android:colorEdgeEffect">@*common:color/theme_edge</item>
+    </style>
+
+    <style name="Widget.Material.ActionBar.TabText" parent="@*android:style/Widget.Material.ActionBar.TabText">
+        <item name="android:textColor">@*common:color/theme_dark</item>
     </style>
 
 </resources>

@@ -19,7 +19,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := HexoLibre
+LOCAL_PACKAGE_NAME := PinkFoxTheme
 LOCAL_JAVA_LIBRARIES := framework-base
 
 include $(BUILD_PACKAGE)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text color of the search box text as entered by user  -->
+    <color name="searchbox_text_color">@*common:color/theme_white</color>
+
+    <!-- Background color of the search box -->
+    <color name="searchbox_background_color">#ffffff</color>
+    <color name="searchbox_hint_text_color">#ffffff</color>
+    <color name="searchbox_icon_tint">@color/searchbox_hint_text_color</color>
+
+    <color name="search_shortcut_background_color">#b6b6b6</color>
+    <color name="search_shortcut_icon_color">#f8f8f8</color>
+
+</resources>

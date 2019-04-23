@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
  Copyright (C) 2016 Cyanogen, Inc.
  -->
-<manifest android:versionCode="2400" android:versionName="2.4" package="org.cyanogenmod.hexolibre"
+<manifest android:versionCode="2400" android:versionName="2.4" package="com.pinkfoxteam.pinkfoxtheme"
   xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <uses-sdk android:targetSdkVersion="23" android:minSdkVersion="23" />
+    <uses-sdk android:targetSdkVersion="22" android:minSdkVersion="22" />
 
     <uses-feature android:name="org.cyanogenmod.theme.v1" />
 
@@ -16,4 +15,5 @@
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name" />
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
+	<meta-data android:name="org.cyanogenmod.theme.email" android:value="@string/theme_email"/>
 </manifest>

@@ -2,13 +2,25 @@
 <resources>
 
     <!-- Dashboard category panel elevation -->
-    <dimen name="dashboard_category_elevation">0dp</dimen>
+    <dimen name="dashboard_category_elevation">2dp</dimen>
 
-    <!-- Dashboard image tile size -->
-    <dimen name="dashboard_tile_image_size">20dp</dimen>
+    <dimen name="dashboard_category_title_height">47dp</dimen>
 
-    <!-- Dashboard tile image margin start / end -->
-    <dimen name="dashboard_tile_image_margin_start">24dp</dimen>
-    <dimen name="dashboard_tile_image_margin_end">32dp</dimen>
+    <dimen name="actionbar_contentInsetStart">16dp</dimen>
+    <dimen name="actionbar_subsettings_contentInsetStart">72dp</dimen>
+
+    <dimen name="screen_margin_sides">64dip</dimen>
+    <dimen name="screen_margin_top">72dip</dimen>
+    <dimen name="screen_margin_bottom">48dip</dimen>
+
+    <!-- Dashboard category padding start / end -->
+    <dimen name="dashboard_category_padding_start">12dp</dimen>
+    <dimen name="dashboard_category_padding_end">9dp</dimen>
+
+    <!-- ActionBar height -->
+    <dimen name="actionbar_size">60dip</dimen>
+
+    <!-- Search Panel elevation -->
+    <dimen name="search_panel_elevation">0dp</dimen>
 
 </resources>

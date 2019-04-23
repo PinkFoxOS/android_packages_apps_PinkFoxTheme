@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="phone_settings_background_color">@*common:color/theme_white</color>
+    <color name="phone_settings_actionbar_text_color">#FFFFFF</color>
+
+    <!-- Color of the theme of the People app -->
+    <color name="people_app_theme_color">@*common:color/theme_kfox</color>
+
+</resources>

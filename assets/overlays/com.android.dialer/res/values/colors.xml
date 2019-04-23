@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Primary text color in the Dialer -->
+    <color name="dialtacts_primary_text_color">#333333</color>
+
+    <!-- Secondary text color in the Dialer -->
+    <color name="dialtacts_secondary_text_color">#737373</color>
+
+    <!-- In-call UI background color. -->
+    <color name="incall_background_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="incall_accent_color">#ffffff</color>
+
+    <!-- Main Dialer Color -->
+    <color name="dialer_theme_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="dialer_theme_color_dark">@*common:color/theme_wileyfox_orange_dark</color>
+
+    <color name="dialtacts_theme_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="background_dialpad_pressed">@*common:color/theme_wileyfox_orange</color>
+    <color name="ripple_material_dark">@*common:color/theme_edge</color>
+
+    <!-- History Tab ViewPagerTab -->
+    <color name="actionbar_background_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="actionbar_icon_color">#ffffffff</color>
+
+    <!-- History Tab ViewPagerTab Selected Underline -->
+    <color name="actionbar_background_color_dark">@*common:color/theme_wileyfox_orange</color>
+
+    <!-- Selected Tab -->
+    <color name="nav_tab_item_selected_color">@*common:color/theme_wileyfox_orange_dark</color>
+
+    <!-- Unselected Tab -->
+    <color name="nav_tab_item_color">@*common:color/theme_wileyfox_orange</color>
+
+    <!-- Contact Card Tab Underline -->
+    <color name="nav_tab_item_underline_color">@*common:color/theme_white</color>
+
+    <!-- Call Button Color -->
+    <color name="dialpad_call_button_color">@*common:color/theme_wileyfox_orange</color>
+
+    <!-- InCallUI buttons -->
+    <color name="button_background_color">#00000000</color>
+    <color name="button_selected_color">@color/dialer_theme_color_dark</color>
+
+    <color name="dialer_dialpad_touch_tint">@*common:color/theme_wileyfox_orange</color>
+    <color name="incall_dialpad_touch_tint">@*common:color/theme_wileyfox_orange</color>
+    <color name="main_header_separator_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="secondary_header_separator_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="quickcontact_default_photo_tint_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="quickcontact_default_photo_tint_color_dark">@*common:color/theme_wileyfox_orange_dark</color>
+
+    <color name="text_highlight_color">@*common:color/theme_wileyfox_orange</color>
+
+    <color name="tab_ripple_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="frequently_contacted_title_color">@*common:color/theme_wileyfox_orange</color>
+
+    <color name="incall_call_banner_background_color">@color/incall_background_color</color>
+    <color name="incall_action_bar_background_color">@color/incall_background_color</color>
+
+    <color name="call_log_header_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="call_log_expanded_background_color">@*common:color/theme_white</color>
+    <color name="call_log_missed_call_highlight_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="call_log_voicemail_highlight_color">#ffed1c24</color>
+    <color name="call_log_extras_text_color">@*common:color/theme_wileyfox_orange</color>
+    <color name="call_log_action_text">@*common:color/theme_wileyfox_orange</color>
+
+    <color name="voicemail_playback_seek_bar_already_played">@*common:color/theme_wileyfox_orange</color>
+    <color name="item_selected">@*common:color/theme_edge</color>
+    <color name="remove_highlighted_text_color">#ffff3f3b</color>
+    <color name="missed_call">#fff21913</color>
+    <color name="dialpad_separator_line_color">#00717171</color>
+    <color name="glowpad_call_widget_normal_tint">#FF00c853</color>
+
+    <!-- Colors for incoming and outgoing calls in the call statistics -->
+    <color name="call_stats_incoming">@*common:color/theme_wileyfox_orange</color>
+    <color name="call_stats_outgoing">@*common:color/theme_wileyfox_orange_dark</color>
+    <color name="call_stats_missed">@*common:color/theme_rfox</color>
+    <color name="call_stats_blacklist">@*common:color/theme_dark</color>
+    <color name="call_stats_bar_background">#88888888</color>
+
+    <!-- Search Contacts -->
+    <color name="searchbox_text_color">#000000</color>
+    <color name="search_contacts_text">#808A91</color>
+
+    <color name="searchbox_icon_tint">#a4a4a4</color>
+
+</resources>

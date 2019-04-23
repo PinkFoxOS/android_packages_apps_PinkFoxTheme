@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-
-    <string name="theme_name">HexoLibre</string>
-    <string name="theme_author">Cyanogen Inc</string>
-
+    <string name="theme_name">PinkFox</string>
+    <string name="theme_author">PinkFox Team</string>
+    <string name="theme_email">sedenogen@devotag.net</string>
 </resources>

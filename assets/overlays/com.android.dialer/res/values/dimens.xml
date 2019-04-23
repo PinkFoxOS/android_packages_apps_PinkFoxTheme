@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Circle size for incoming call widget's each item. -->
+    <dimen name="incoming_call_widget_circle_size">56dp</dimen>
+
+    <!-- This value effects speed dial view. Keep at 0dp -->
+    <dimen name="action_bar_height">0dp</dimen>
+
+
+</resources>

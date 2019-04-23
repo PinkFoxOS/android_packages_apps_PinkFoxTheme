@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- The color applied to framework buttons in their normal state. -->
+    <attr name="colorButtonNormal" format="color" />
+
+    <!-- Default color of foreground imagery. -->
+    <attr name="colorForeground" format="color" />
+
+    <!-- The color applied to framework controls in their activated (ex. checked) state. -->
+    <attr name="colorControlActivated" format="color" />
+
+    <!-- The color applied to framework switch thumbs in their normal state. -->
+    <attr name="colorSwitchThumbNormal" format="color" />
+
+</resources>
+

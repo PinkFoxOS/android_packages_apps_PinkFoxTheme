@@ -21,7 +21,7 @@
     android:viewportHeight="24">
 
     <path
-        android:fillColor="@color/theme_accent"
+        android:fillColor="@*common:color/theme_gfox"
         android:pathData="M20,15v5h-5l-3,3.2L9,20H4v-5l-3.2-3L4,9V4h5l3-3.2L15,4h5v5l3.2,3L20,15z
 M12,6v12c3.3,0,6-2.7,6-6S15.3,6,12,6z" />
 </vector>
