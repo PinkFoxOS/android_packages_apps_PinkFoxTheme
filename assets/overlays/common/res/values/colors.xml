@@ -6,8 +6,8 @@
     <color name="theme_primary_dark">@color/theme_wileyfox_orange_dark</color>
     <color name="theme_highlighter">#f43d5e99</color>
     <color name="theme_dark">#FF202020</color>
-    <color name="theme_white">#FF000000</color>
-    <color name="theme_black">#FFffffff</color>
+    <color name="theme_white">#FFffffff</color>
+    <color name="theme_black">#FF000000</color>
     <color name="theme_transparent">#00000000</color>
     <color name="theme_edge">#c8324d</color>
 
